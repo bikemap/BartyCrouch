@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     simple commands from the command line what can even be automated using a build script within your project.
                    DESC
 
-  s.homepage     = "https://github.com/Flinesoft/BartyCrouch"
+  s.homepage     = "https://github.com/bikemap/BartyCrouch"
   s.license      = { :type => "MIT", :file => "LICENSE" }
 
   s.author             = { "Cihat Gündüz" => "cocoapods@cihatguenduez.de" }
